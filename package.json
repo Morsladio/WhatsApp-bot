@@ -1,0 +1,23 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Bot para Whatsapp hecho por 5 pendejos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Morsladio/WhatsApp-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Morsladio/WhatsApp-bot/issues"
+  },
+  "homepage": "https://github.com/Morsladio/WhatsApp-bot#readme",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.0.0"
+  }
+}
